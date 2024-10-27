@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Zodiac</string>
+    <string name="description_share_app_link" />
+    <string name="description_share_app" />
+    <string name="error_common" />
+</resources>
